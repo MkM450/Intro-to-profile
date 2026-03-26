@@ -9,8 +9,5 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Penetration Tester](https://img.shields.io/badge/penetration.tester-c5f015?logo=linuxColor=blue)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"your-sample-favorite-quote"_
+_"The best way to get something done is to begin"_
