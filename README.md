@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Makayla! 
 ##  About Me
- Unlocking Cyber, Cybersecuirty, IT analyst, 
+ Unlocking Cyber, Major-Cybersecuirty, Job-IT analyst, 
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
