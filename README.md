@@ -8,7 +8,7 @@
 ## 🎉 Interests
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Penetration Tester](https://img.shields.io/badge/penetrationtester-c5f015?logo=penetration&logoColor=blue)
+![Penetration Tester](https://img.shields.io/badge/penetrationTester-c5f015?logo=penetration&logoColor=blue)
 ![CyberCrimes](https://img.shields.io/badge/CyberCrimes-f03c15?logo=CyberCrimes&logoColor=white)
 
 _"The best way to get something done is to begin"_
